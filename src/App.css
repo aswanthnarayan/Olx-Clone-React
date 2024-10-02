@@ -1,0 +1,15 @@
+.App {
+  overflow-x: hidden; /* Prevent horizontal scrolling */
+}
+
+.test{
+    background: linear-gradient(
+    135deg,       /* Angle of the gradient */
+    #fecf32 0%,    /* Yellow starts */
+    #fecf32 33%,   /* Yellow to one-third */
+    #22e5da 33%,     /* Teal starts */
+    #22e5da 66%,     /* Teal goes to two-thirds */
+    #3B77FE 66%,     /* Blue starts */
+    #3B77FE 100%     /* Blue ends */
+  )
+}
