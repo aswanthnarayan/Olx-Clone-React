@@ -1,8 +1,22 @@
-# React + Vite
+# 🛒 OLX Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern frontend clone of **OLX**, built using **React**, **Tailwind CSS**, and **React Router DOM**. This project replicates key parts of OLX's classified listings interface, including responsive UI and location-based filters.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Features
+
+- 🏷️ Product listing layout inspired by OLX
+- 🌐 Country selection using `use-react-countries`
+- 🔍 Search and browse UI
+- 📱 Fully responsive layout with **Tailwind CSS**
+- ⚛️ Routing with **React Router DOM**
+- 📦 Clean and component-based architecture
+
+## 🚀 Tech Stack
+
+- **React 18**
+- **Tailwind CSS**
+- **React Router DOM**
+- **Material Tailwind**
+- **use-react-countries** (for dynamic country dropdowns)
+
